@@ -12,6 +12,6 @@ pathological findings in VCE video data. This challenge leverages the Galar data
 imbalanced, multi-label VCE dataset—to evaluate algorithm performance in real-world conditions and
 encourage the development of innovative techniques for handling class imbalance. Participants will be
 tasked with detecting both common and rare events across noisy, temporally continuous VCE video
-streams during internal validation and external validation phase. Automated classification pipelines will
+streams. Automated classification pipelines will
 be ranked based on innovative class-balance strategies and event-level performance metrics to ensure
 fairness, generalizability, and clinical relevance.
