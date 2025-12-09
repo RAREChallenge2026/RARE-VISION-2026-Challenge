@@ -15,7 +15,7 @@ tasked with detecting both common and rare events across noisy, temporally conti
 streams. Automated classification pipelines will
 be ranked based on innovative class-balance strategies and event-level performance metrics to ensure
 fairness, generalizability, and clinical relevance.
-# important links
+## important links
 - [Registration form](https://forms.gle/QemRirWysnGoGrKM6) (closed now)
 - [Challenge Hosting Website](https://misahub.in/cv2024.html)
 - [Challenge ArXiv](https://arxiv.org/abs/2408.04940)
