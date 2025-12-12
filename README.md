@@ -16,7 +16,7 @@ streams. Automated classification pipelines will
 be ranked based on innovative class-balance strategies and event-level performance metrics to ensure
 fairness, generalizability, and clinical relevance.
 ## important links
-- [Registration form](https://forms.gle/QemRirWysnGoGrKM6) (closed now)
+- [Registration form](https://forms.gle/WtwjM8dverSGgbre7) (closed now)
 - [Challenge Hosting Website](https://misahub.in/cv2024.html)
 - [Challenge ArXiv](https://arxiv.org/abs/2408.04940)
 - [Challenge github repository](https://github.com/misahub2023/Capsule-Vision-2024-Challenge)
