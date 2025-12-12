@@ -1,4 +1,4 @@
-# RARE-VISION-2026-Challenge
+# ICPR 2026 RARE-VISION Competition
 
 A growing burden of gastrointestinal (GI) diseases has increased reliance on Video Capsule
 Endoscopy (VCE) for non-invasive visualization of the GI tract, thereby overcoming limitations of
