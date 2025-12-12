@@ -11,7 +11,7 @@ Participants will work with the Galar dataset, a large, imbalanced, multi-label 
 Submissions will be evaluated based on event-level performance metrics and the creativity and effectiveness of the proposed class-balance strategies, ensuring fairness, generalizability, and clinical relevance.
 
 ## Important links
-- [Registration form](https://forms.gle/67EbJSmuQ8nBLq3q8) (open from Dec. 15 2025 to Feb 14 2026)
+- [Registration form](https://forms.gle/67EbJSmuQ8nBLq3q8) (open from Dec. 15, 2025 to Feb. 14, 2026)
 - [Challenge Hosting Website and Github repository](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge)
 - [Challenge Document (Figshare)]()
 - [Dataset for AI model development Link](https://figshare.com/s/eca296d3a1dddbaf3387)
