@@ -15,9 +15,9 @@ Submissions will be evaluated based on event-level performance metrics and the c
 - [Challenge Hosting Website and Github repository](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge)
 - [Challenge Document (Figshare)]()
 - [Dataset for AI model development Link](https://figshare.com/s/eca296d3a1dddbaf3387)
-- [Testing Dataset Link](To be released on Feb. 14, 2026)
-- [Sample Report Overleaf](To be released on Feb. 14, 2026)
-- [Submission Sanity Checker](To be released on Feb. 14, 2026)
+- [Testing Dataset Link] (To be released on Feb. 14, 2026)
+- [Sample Report Overleaf] (To be released on Feb. 14, 2026)
+- [Submission Sanity Checker] (To be released on Feb. 14, 2026)
 ## Table of Content
 - [Competition Overview](#challenge-overview)
 - [Competition Timeline](#challenge-timeline)
@@ -27,4 +27,4 @@ Submissions will be evaluated based on event-level performance metrics and the c
   - [Data_loader Script](#data_loader)
   - [Eval_metrics_gen_excel](#eval_metrics_gen_excel)
   - [Evaluate_model](#evaluate_model)
-- [Submission Format](To be released on Feb. 14, 2026)
+- [Submission Format] (To be released on Feb. 14, 2026)
