@@ -25,6 +25,4 @@ Submissions will be evaluated based on event-level performance metrics and the c
   - [Dataset Structure](#dataset-structure)
 - [Sample Scripts for Participants](#sample-scripts-for-participants)
   - [Data_loader Script](#data_loader)
-  - [Eval_metrics_gen_excel](#eval_metrics_gen_excel)
-  - [Evaluate_model](#evaluate_model)
 - [Submission Format] (To be released on Feb. 14, 2026)
