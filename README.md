@@ -18,7 +18,7 @@ Submissions will be evaluated based on event-level performance metrics and the c
 - [Testing Dataset Link] (To be released on Feb. 14, 2026)
 - [Sample Report Overleaf] (To be released on Feb. 14, 2026)
 - [Submission Sanity Checker] (To be released on Feb. 14, 2026)
-## Table of Content (more information will be uploaded soon)
+## Table of Content (more information will be updated soon)
 - [Competition Overview](#challenge-overview)
 - [Competition Timeline](#challenge-timeline)
 - [Dataset](#dataset)
