@@ -13,7 +13,7 @@ Submissions will be evaluated based on event-level performance metrics and the c
 ## Important links
 - [Registration form](https://forms.gle/67EbJSmuQ8nBLq3q8) (open from Dec. 15, 2025 to Feb. 14, 2026)
 - [Challenge Hosting Website and Github repository](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge)
-- [Challenge Document (Figshare)]()
+- [Challenge Document (Figshare)](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858?file=60375365)
 - [Dataset for AI model development Link](https://figshare.com/s/eca296d3a1dddbaf3387)
 - [Testing Dataset Link] (To be released on Feb. 14, 2026)
 - [Sample Report Overleaf] (To be released on Feb. 14, 2026)
