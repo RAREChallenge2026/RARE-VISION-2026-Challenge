@@ -31,7 +31,7 @@ Submissions will be evaluated based on event-level performance metrics and the c
   - [How to create a JASON file?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
 
      Note: Participants are ONLY allowed to use the following 17 labels -
-     Anatomical region: mouth, esophagus, stomach, small intestine, colon, z-line, pylorus, ileocecal valve (8)
+     Anatomical region: mouth, esophagus, stomach, small intestine, colon, z-line, pylorus, ileocecal valve (8) >
      Pathological	findings: active	bleeding,	angiectasia,	blood,	erosion,	erythema,	hematin, lymphangioectasis, polyp, ulcer (9)
   - [Sample JASON file](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
 - [Submission Format] (To be released on Feb. 14, 2026)
