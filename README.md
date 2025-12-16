@@ -23,6 +23,8 @@ Submissions will be evaluated based on event-level performance metrics and the c
 - [Competition Timeline](#challenge-timeline)
 - [Dataset](#dataset)
   - [Dataset Structure](#dataset-structure)
-- [Sample Scripts for Participants](#sample-scripts-for-participants)
+- [Sample Scripts for Participants](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/tree/main/sample_codes)
+
+
   - [Data_loader Script](#data_loader)
 - [Submission Format] (To be released on Feb. 14, 2026)
