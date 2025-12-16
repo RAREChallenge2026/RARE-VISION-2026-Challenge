@@ -18,11 +18,11 @@ Submissions will be evaluated based on event-level performance metrics and the c
 - [Testing Dataset Link] (To be released on Feb. 14, 2026)
 - [Sample Report Overleaf] (To be released on Feb. 14, 2026)
 - [Submission Sanity Checker] (To be released on Feb. 14, 2026)
-## Table of Content (more information will be updated soon)
-- [Competition Overview](#challenge-overview)
-- [Competition Timeline](#challenge-timeline)
-- [Dataset](#dataset)
-  - [Dataset Structure](#dataset-structure)
+## Table of Content
+- [Competition Overview, Timeline and Dataset Information can be found at: ](#challenge-overview)
+
+  [Competition document](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858)
+  [Data article](https://www.nature.com/articles/s41597-025-05112-7)
 - [Sample Scripts for Participants](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/tree/main/sample_codes)
   - [How to download the dataset?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/download_dataset.py)
 
