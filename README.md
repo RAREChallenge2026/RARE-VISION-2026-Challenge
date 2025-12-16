@@ -27,10 +27,10 @@ Submissions will be evaluated based on event-level performance metrics and the c
     > **Note:**  
     Participants are requested to do a disk space check before downloading the dataset. A minimum of 600 GB space is needed. The dataset is freely available at plus Figshare. The participants can also download seperate 7z files from there. This sample code will download all relevant files. 
   - [How to perform train-test splits?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/train_test_split.py)
-    **Note:**  
+    > **Note:**  
     Participants are allowed to choose different train-validation-test splits.
   - [How to create a JASON file?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
-     **Note:**  
+     > **Note:**  
     Participants are ONLY allowed to use the following 17 labels -
       - Anatomical region: mouth, esophagus, stomach, small intestine, colon, z-line, pylorus, ileocecal valve (8) 
       - Pathological	findings: active	bleeding,	angiectasia,	blood,	erosion,	erythema,	hematin, lymphangioectasis, polyp, ulcer (9)
