@@ -24,7 +24,8 @@ Submissions will be evaluated based on event-level performance metrics and the c
 - [Dataset](#dataset)
   - [Dataset Structure](#dataset-structure)
 - [Sample Scripts for Participants](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/tree/main/sample_codes)
-
-
-  - [Data_loader Script](#data_loader)
+  - [How to download the dataset?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/download_dataset.py)
+  - [How to perform train-test splits?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/train_test_split.py)
+  - [How to create a JASON file?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
+  - [Sample JASON file](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
 - [Submission Format] (To be released on Feb. 14, 2026)
