@@ -24,7 +24,7 @@ Submissions will be evaluated based on event-level performance metrics and the c
   - [Data article](https://www.nature.com/articles/s41597-025-05112-7)
 - [Sample Scripts for Participants](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/tree/main/sample_codes)
   - [How to download the dataset?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/download_dataset.py)
-    **Note:**  
+    > **Note:**  
     Participants are requested to do a disk space check before downloading the dataset. A minimum of 600 GB space is needed. The dataset is freely available at plus Figshare. The participants can also download seperate 7z files from there. This sample code will download all relevant files. 
   - [How to perform train-test splits?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/train_test_split.py)
     **Note:**  
