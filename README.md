@@ -22,6 +22,7 @@ Submissions will be evaluated based on **event-level performance metrics** and t
 - [Challenge Document (Figshare)](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858?file=60375365)
 
 - [Dataset for AI Model Development](https://plus.figshare.com/articles/dataset/Galar_-_a_large_multi-label_video_capsule_endoscopy_dataset/25304616)
+- Join the Q and A session on Jan. 19, 2026 at 2PM CET [here](https://meet.google.com/amc-roda-njo)
 
 - **Testing Dataset**  
   *(To be released on February 14, 2026)*
