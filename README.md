@@ -24,15 +24,16 @@ Submissions will be evaluated based on **event-level performance metrics** and t
 - [Dataset for AI Model Development](https://plus.figshare.com/articles/dataset/Galar_-_a_large_multi-label_video_capsule_endoscopy_dataset/25304616)
 - Join the 1st Q and A session on Jan. 19, 2026 at 2PM CET [here](https://meet.google.com/amc-roda-njo)
 - Join the 2nd Q and A session on Feb. 5, 2026 at 5PM CET [here](https://meet.google.com/amc-roda-njo)
+- Join the 2nd Q and A session on Feb. 19, 2026 at 5PM CET [here](https://meet.google.com/amc-roda-njo)
 
 - **Testing Dataset**  
-  *(To be released on February 14, 2026)*
+  *(To be released on February 28, 2026)*
 
 - **Sample Report (Overleaf)**  
-  *(To be released on February 14, 2026)*
+  *(To be released on February 28, 2026)*
 
 - **Submission Sanity Checker**  
-  *(To be released on February 14, 2026)*
+  *(To be released on February 28, 2026)*
 
 
 - ## Table of Contents
@@ -67,5 +68,5 @@ Submissions will be evaluated based on **event-level performance metrics** and t
   - [Sample JSON file](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
 
 - **Submission Format**  
-  *(To be released on Feb. 14, 2026)*
+  *(To be released on Feb. 28, 2026)*
 
