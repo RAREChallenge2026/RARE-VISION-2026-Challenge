@@ -29,7 +29,7 @@ Submissions will be evaluated based on **event-level performance metrics** and t
 
 ~~- Join the 2nd Q and A session on Feb. 5, 2026 at 5PM CET [here](https://meet.google.com/amc-roda-njo)~~
 
-- Join the 3rd Q and A session on Feb. 19, 2026 at 5PM CET [here](https://meet.google.com/amc-roda-njo)
+Join the 3rd Q and A session on Feb. 19, 2026 at 5PM CET [here](https://meet.google.com/amc-roda-njo)
 
 - **Testing Dataset**  
   *(To be released on February 28, 2026)*
