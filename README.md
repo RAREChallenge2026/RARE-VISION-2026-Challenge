@@ -14,8 +14,9 @@ Submissions will be evaluated based on **event-level performance metrics** and t
 
 ## Important Links
 
-- [Registration Form](https://forms.gle/67EbJSmuQ8nBLq3q8)  
-  *(Open from December 15, 2025 to February 14, 2026) CLOSED NOW*
+~~- [Registration Form](https://forms.gle/67EbJSmuQ8nBLq3q8)  
+*(Open from December 15, 2025 to February 14, 2026)*~~  
+**CLOSED NOW**
 
 - [Challenge Hosting Website and GitHub Repository](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge)
 
