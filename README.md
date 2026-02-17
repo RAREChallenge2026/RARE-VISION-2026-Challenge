@@ -6,7 +6,7 @@
 
 A growing burden of gastrointestinal (GI) diseases has increased reliance on video capsule endoscopy (VCE) for non-invasive visualization of the GI tract, thereby overcoming limitations of conventional endoscopic methods in evaluating GI tract pathology. The sheer volume of video data, coupled with the rarity of clinically relevant anomalies, has introduced machine learning into this field to assist in efficient and accurate analysis by addressing challenges such as class imbalance and reducing the time required for manual review of video data.
 
-The ICPR 2026 RARE-VISION Competition aims to advance this field by encouraging the development of machine learning models designed specifically to address the class imbalance challenge inherent in VCE data. Running virtually from **December 15, 2025 to March 1, 2026**, the competition focuses on robust classification of anatomical regions and rare pathological findings within continuous, noisy VCE video streams.
+The ICPR 2026 RARE-VISION Competition aims to advance this field by encouraging the development of machine learning models designed specifically to address the class imbalance challenge inherent in VCE data. Running virtually from **December 15, 2025 to ~~March 1, 2026~~ March 14, 2026**, the competition focuses on robust classification of anatomical regions and rare pathological findings within continuous, noisy VCE video streams.
 
 Participants will work with the **Galar dataset**, a large, imbalanced, multi-label VCE dataset that reflects real-world clinical conditions. Their goal is to detect both common and rare events while demonstrating innovative strategies—such as advanced sampling, loss-function engineering, data augmentation, or temporal modeling—to handle class imbalance effectively.
 
@@ -40,6 +40,12 @@ Join the 3rd Q and A session on Feb. 19, 2026 at 5PM CET [here](https://meet.goo
 - **Submission Sanity Checker**  
   *(To be released on February 28, 2026)*
 
+ - **Test Set Analysis Window and Result Submission**  
+  *(February 28 - March 13, 2026)*
+ *March 14, 2026 will be hard deadline to submit the results
+ - **Analysis by the organizing team and Submission to ICPR 20026**  
+  *(March 15, 2026 - April 1, 2026)*
+ *Winner names will be released in June 2026
 
 - ## Table of Contents
 
