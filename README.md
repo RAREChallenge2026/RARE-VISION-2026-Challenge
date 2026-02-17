@@ -49,7 +49,7 @@ Join the 3rd Q and A session on Feb. 19, 2026 at 5PM CET [here](https://meet.goo
 
 - ## Table of Contents
 
-- [Competition Overview, Timeline and Dataset Information](#challenge-overview)
+- [Competition Overview](#challenge-overview)
   - [Competition document](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858)
   - [Data article](https://www.nature.com/articles/s41597-025-05112-7)
 
