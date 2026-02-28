@@ -56,7 +56,7 @@ Submissions will be evaluated based on **event-level performance metrics** and t
     > Participants can also download separate **7z files** from there.  
     > This sample code will download all relevant files.
 
-  - [Sample code on how to perform train-test splits?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/train_test_split.py)
+  - [Sample script on how to perform train-test splits?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/train_test_split.py)
     > **Note:**  
     > Participants are allowed to choose different **train-validation-test splits**.
 
