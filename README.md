@@ -23,7 +23,6 @@ Submissions will be evaluated based on **event-level performance metrics** and t
 - [Challenge Document (Figshare)](https://figshare.com/articles/preprint/ICPR_2026_RARE-VISION_Competition_Document_and_Flyer/30884858?file=60375365)
 
 - [Dataset for AI Model Development](https://plus.figshare.com/articles/dataset/Galar_-_a_large_multi-label_video_capsule_endoscopy_dataset/25304616)
-
   
 ~~- Join the 1st Q and A session on Jan. 19, 2026 at 2PM CET [here](https://meet.google.com/amc-roda-njo)~~
 
@@ -31,14 +30,9 @@ Submissions will be evaluated based on **event-level performance metrics** and t
 
 ~~Join the 3rd Q and A session on Feb. 19, 2026 at 5PM CET [here](https://meet.google.com/amc-roda-njo)~~
 
-- **Testing Dataset**  
-  *(To be released on February 28, 2026)*
-
-- **Sample Report (Overleaf)**  
-  *(To be released on February 28, 2026)*
-
-- **Submission Sanity Checker**  
-  *(To be released on February 28, 2026)*
+- [Test dataset (Figshare)](https://doi.org/10.25452/figshare.plus.31431907)
+- [Sample report to follow (Overleaf)](https://www.overleaf.com/read/dtndgkgttbyf\#4d042f)
+- [Sanity checker](https://scoringrarevision.streamlit.app/)
 
  - **Test Set Analysis Window and Result Submission**  
   *(February 28 - March 13, 2026)*
@@ -54,7 +48,7 @@ Submissions will be evaluated based on **event-level performance metrics** and t
   - [Data article](https://www.nature.com/articles/s41597-025-05112-7)
 
 - [Sample Scripts for Participants](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/tree/main/sample_codes)
-  - [How to download the dataset?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/download_dataset.py)
+  - [Sample script on how to download the development dataset?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/download_dataset.py)
     > **Note:**  
     > Participants are requested to do a disk space check before downloading the dataset.  
     > A minimum of **600 GB** space is needed.  
@@ -62,11 +56,11 @@ Submissions will be evaluated based on **event-level performance metrics** and t
     > Participants can also download separate **7z files** from there.  
     > This sample code will download all relevant files.
 
-  - [How to perform train-test splits?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/train_test_split.py)
+  - [Sample code on how to perform train-test splits?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/train_test_split.py)
     > **Note:**  
     > Participants are allowed to choose different **train-validation-test splits**.
 
-  - [How to create a JSON file?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
+  - [Sample script on how to create a JSON file?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
     > **Note:**  
     > Participants are **ONLY** allowed to use the following **17 labels**:
     >
@@ -77,7 +71,3 @@ Submissions will be evaluated based on **event-level performance metrics** and t
     >   active bleeding, angiectasia, blood, erosion, erythema, hematin, lymphangioectasis, polyp, ulcer
 
   - [Sample JSON file](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
-
-- **Submission Format**  
-  *(To be released on Feb. 28, 2026)*
-
