@@ -30,7 +30,7 @@ Submissions will be evaluated based on **event-level performance metrics** and t
 
 ~~Join the 3rd Q and A session on Feb. 19, 2026 at 5PM CET [here](https://meet.google.com/amc-roda-njo)~~
 
-- [Test dataset (Figshare)](https://doi.org/10.25452/figshare.plus.31431907)
+- [Test dataset (Figshare)](https://drive.google.com/drive/folders/17rGcIlR9QEXVJstOP57NKnuYIyW-UuYk?usp=drive_link)
 - [Sample report to follow (Overleaf)](https://www.overleaf.com/read/dtndgkgttbyf\#4d042f)
 - [Sanity checker](https://scoringrarevision.streamlit.app/)
 
