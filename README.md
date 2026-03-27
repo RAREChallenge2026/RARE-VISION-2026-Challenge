@@ -36,7 +36,7 @@ Submissions ~~will be~~ were evaluated based on **event-level performance metric
 
  - **Test Set Analysis Window and Result Submission**  
   *(February 28 - ~~March 13, 2026~~ March 18, 2026)*
- *~~March 14, 2026~~ March 18, 2026 mid night CET will be hard deadline to submit the results
+ *~~March 14, 2026~~ March 18, 2026 mid night CET ~~will be~~ was hard deadline to submit the results
  - **Analysis by the organizing team and Submission to ICPR 2026**  
   *(~~March 15, 2026~~ March 19 - April 1, 2026)*
  *Winner names will be released in June 2026
@@ -71,3 +71,4 @@ Submissions ~~will be~~ were evaluated based on **event-level performance metric
     >   active bleeding, angiectasia, blood, erosion, erythema, hematin, lymphangioectasis, polyp, ulcer
 
   - [Sample JSON file](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
+  - [Demo of the RarEval Web app] ()
