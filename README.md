@@ -6,11 +6,11 @@
 
 A growing burden of gastrointestinal (GI) diseases has increased reliance on video capsule endoscopy (VCE) for non-invasive visualization of the GI tract, thereby overcoming limitations of conventional endoscopic methods in evaluating GI tract pathology. The sheer volume of video data, coupled with the rarity of clinically relevant anomalies, has introduced machine learning into this field to assist in efficient and accurate analysis by addressing challenges such as class imbalance and reducing the time required for manual review of video data.
 
-The ICPR 2026 RARE-VISION Competition aims to advance this field by encouraging the development of machine learning models designed specifically to address the class imbalance challenge inherent in VCE data. Running virtually from **December 15, 2025 to ~~March 1, 2026~~ ~~March 14, 2026~~ March 18, 2026**, the competition focuses on robust classification of anatomical regions and rare pathological findings within continuous, noisy VCE video streams.
+The ICPR 2026 RARE-VISION Competition aims to advance this field by encouraging the development of machine learning models designed specifically to address the class imbalance challenge inherent in VCE data. Running virtually from **December 15, 2025 to ~~March 1, 2026~~ ~~March 14, 2026~~ March 18, 2026**, the competition focused on robust classification of anatomical regions and rare pathological findings within continuous, noisy VCE video streams.
 
-Participants will work with the **Galar dataset**, a large, imbalanced, multi-label VCE dataset that reflects real-world clinical conditions. Their goal is to detect both common and rare events while demonstrating innovative strategies—such as advanced sampling, loss-function engineering, data augmentation, or temporal modeling—to handle class imbalance effectively.
+Participants ~~will work~~ worked with the **Galar dataset**, a large, imbalanced, multi-label VCE dataset that reflects real-world clinical conditions. Their goal ~~is~~ was to detect both common and rare events while demonstrating innovative strategies—such as advanced sampling, loss-function engineering, data augmentation, or temporal modeling—to handle class imbalance effectively.
 
-Submissions will be evaluated based on **event-level performance metrics** and the creativity and effectiveness of the proposed class-balance strategies, ensuring fairness, generalizability, and clinical relevance.
+Submissions ~~will be~~ were evaluated based on **event-level performance metrics** and the creativity and effectiveness of the proposed class-balance strategies, ensuring fairness, generalizability, and clinical relevance.
 
 ## Important Links
 
@@ -32,12 +32,12 @@ Submissions will be evaluated based on **event-level performance metrics** and t
 
 - [Test dataset (Figshare)](https://drive.google.com/drive/folders/17rGcIlR9QEXVJstOP57NKnuYIyW-UuYk?usp=drive_link)
 - [Sample report to follow (Overleaf)](https://www.overleaf.com/read/dtndgkgttbyf\#4d042f)
-- [Sanity checker](https://scoringrarevision.streamlit.app/)
+- [RarEval Web app](https://scoringrarevision.streamlit.app/)
 
  - **Test Set Analysis Window and Result Submission**  
   *(February 28 - ~~March 13, 2026~~ March 18, 2026)*
  *~~March 14, 2026~~ March 18, 2026 mid night CET will be hard deadline to submit the results
- - **Analysis by the organizing team and Submission to ICPR 20026**  
+ - **Analysis by the organizing team and Submission to ICPR 2026**  
   *(~~March 15, 2026~~ March 19 - April 1, 2026)*
  *Winner names will be released in June 2026
 
@@ -50,19 +50,19 @@ Submissions will be evaluated based on **event-level performance metrics** and t
 - [Sample Scripts for Participants](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/tree/main/sample_codes)
   - [Sample script on how to download the development dataset?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/download_dataset.py)
     > **Note:**  
-    > Participants are requested to do a disk space check before downloading the dataset.  
-    > A minimum of **600 GB** space is needed.  
+    > Participants ~~are~~ were requested to do a disk space check before downloading the dataset.  
+    > A minimum of **600 GB** space ~~is~~ was needed.  
     > The dataset is freely available at **plus Figshare**.  
-    > Participants can also download separate **7z files** from there.  
+    > Participants ~~can also~~ downloaded separate **7z files** from there.  
     > This sample code will download all relevant files.
 
   - [Sample script on how to perform train-test splits?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/train_test_split.py)
     > **Note:**  
-    > Participants are allowed to choose different **train-validation-test splits**.
+    > Participants ~~are~~ were allowed to choose different **train-validation-test splits**.
 
   - [Sample script on how to create a JSON file?](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
     > **Note:**  
-    > Participants are **ONLY** allowed to use the following **17 labels**:
+    > Participants ~~are~~ were **ONLY** allowed to use the following **17 labels**:
     >
     > - **Anatomical region (8):**  
     >   mouth, esophagus, stomach, small intestine, colon, z-line, pylorus, ileocecal valve
