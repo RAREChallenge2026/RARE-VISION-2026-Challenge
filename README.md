@@ -71,4 +71,4 @@ Submissions ~~will be~~ were evaluated based on **event-level performance metric
     >   active bleeding, angiectasia, blood, erosion, erythema, hematin, lymphangioectasis, polyp, ulcer
 
   - [Sample JSON file](https://github.com/RAREChallenge2026/RARE-VISION-2026-Challenge/blob/main/sample_codes/make_json.py)
-  - [Demo of the RareEval Web app] ()
+  - [Demo of the RareEval Web app] (https://youtu.be/Gp5MH9nQaz4)
